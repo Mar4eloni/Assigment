@@ -1,0 +1,5 @@
+Tile Generation - 1,5h
+AI character with movment logic - 1h
+
+research  - 12h
+
