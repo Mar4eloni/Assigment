@@ -1,5 +1,8 @@
 Tile Generation - 1,5h
 AI character with movment logic - 1h
+AI character attack logic - 0,5h
+Debugging - 1h
 
-research  - 12h
+research for creating custom nav mesh - 8h
+reaserch for creating custom pathfinding - 4h
 
